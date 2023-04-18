@@ -1,0 +1,8 @@
+{
+    "env": {
+        "Mongo_Atlas_PS": "Bhavin321",
+        "JWT_SECRET_KEY": "Bhavin@Bhavin"
+    }
+
+
+}           
